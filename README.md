@@ -16,5 +16,12 @@
 - Log scores and games in tic-tac-toe.db
 - Score will be fetched on every game start
 
+##Web Crawler
+
+- Un-focused crawling from the wikipedia
+- focused crawling from wikipedia
+- Image crawling
+- Only works for wikipedia right now
+
 ##Thank You
 - Bug Reporting appreciated
