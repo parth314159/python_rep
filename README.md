@@ -1,6 +1,6 @@
 #Python Codes
 
-#TicTacToe Console
+##TicTacToe Console
 
 - Limitation :- Python 3.x.
 - Run file on commandline by "python tictactoe.py".
@@ -22,6 +22,11 @@
 - focused crawling from wikipedia
 - Image crawling
 - Only works for wikipedia right now
+
+##Google code Jam 2016
+
+- Qualification round solution (scored enough so 80% correct)
+- 1A_Round (25% works :( )
 
 ##Thank You
 - Bug Reporting appreciated
